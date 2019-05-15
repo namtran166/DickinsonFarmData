@@ -5,6 +5,6 @@ This project was built as an improvement to an existing project by Professor Tim
 The old website can be found at https://farmdata.dickinson.edu/guest.php.
 
 Technologies this website uses:  
-    Django  
+    Python and Django
     PostgreSQL
     JavaScript
