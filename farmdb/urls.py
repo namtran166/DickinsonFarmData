@@ -10,5 +10,4 @@ urlpatterns = [
     # url(r'^$/', views.index, name='index'),
     # url(r'^$/', views.login_user, name='user_login'),
     # url(r'^$/', views.logout_user, name='user_logout'),
-
 ]

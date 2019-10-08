@@ -35,8 +35,3 @@ admin.site.register(Feed_Purchase)
 admin.site.register(Task)
 admin.site.register(Task_Master)
 admin.site.register(Task_Recurring)
-
-
-
-
-

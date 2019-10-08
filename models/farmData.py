@@ -604,34 +604,3 @@ class coverSeedInventory (models.Model):
    code = models.CharField(max_length=20)
    acres = models.DecimalField(max_digits=8,decimal_places=2)
    inInventory = models.DecimalField(max_digits=8,decimal_places=2,default=0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
